@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "José Balado-Alves"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "José Balado-Alves"
 description              : &description "personal description"
 url                      : https://balado-alves.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -48,7 +48,7 @@ author:
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : # aaa
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
