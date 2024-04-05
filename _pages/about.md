@@ -13,14 +13,9 @@ About me
 ======
 I am a PhD student in mathematics at the [Mathematical Institute](https://www.uni-muenster.de/MathematischesInstitut/en/index.shtml) of the [University of Münster](https://www.uni-muenster.de/en/). I am a member of the Cluster of Excellence "Mathematics Münster: Dynamics – Geometry – Structure" and the CRC 1442 "Geometry: Deformations and Rigidity". My supervisor is Anna Siffert.
 
-Getting started
+Research interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+My research interests lie in the field of geometric analysis and submanifold theory. Currently, I am working with geometric objects arising from variational problems such as Hamonic Maps or Polyharmonic Submanifolds.
 
 Site-wide configuration
 ------
