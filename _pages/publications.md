@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Preprints"
-permalink: /publications/
+# permalink: /publications/
 author_profile: true
 ---
 
@@ -14,12 +14,12 @@ Accepted
 1. J. M. Balado-Alves, _Explicit harmonic self-maps of complex projective spaces_, J. Geom. Anal. **34** (2024) 21 (pp. 22) [https://doi.org/10.1007/s12220-023-01465-w](https://doi.org/10.1007/s12220-023-01465-w)
 
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+# {% if site.author.googlescholar %}
+#  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+# {% endif %}
 
-{% include base_path %}
+# {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# {% for post in site.publications reversed %}
+#  {% include archive-single.html %}
+# {% endfor %}
