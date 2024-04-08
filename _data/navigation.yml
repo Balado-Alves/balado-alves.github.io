@@ -12,7 +12,7 @@ main:
   - title: "Talks"
     url: /talks/
         
-  #- title: "Miscellanea"
+  # - title: "Miscellanea"
   #  url: /year-archive/
     
   - title: "CV"
