@@ -17,7 +17,7 @@ Theses
 ======
 
 - _Variedades de Riemann isocurvadas_, Master's thesis, advisor: Eduardo García-Río, University of Santiago de Compostela, 2021. [PDF](/files/Master_Thesis.pdf)
-- _Derivadas de Lie: Transformaciones infinitesimales_, Bachelor's Thesis, advisor: Eduardo García-Río, University of Santiago de Compostela, 2020.
+- _Derivadas de Lie: Transformaciones infinitesimales_, Bachelor's Thesis, advisor: Eduardo García-Río, University of Santiago de Compostela, 2020. [PDF](/files/Bachelor_Thesis.pdf)
 
  {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
