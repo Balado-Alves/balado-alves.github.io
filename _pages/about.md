@@ -17,3 +17,7 @@ Research interests
 ======
 My research interests lie in the field of geometric analysis and submanifold theory. Currently, I am working with geometric objects arising from variational problems such as Hamonic Maps or Polyharmonic Submanifolds.
 
+Contact
+======
+Email: jose dot balado at uni-muenster dot de
+
