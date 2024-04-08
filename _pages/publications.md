@@ -9,7 +9,10 @@ author_profile: true
 
 Accepted
 ======
-I am a PhD student in mathematics at the [Mathematical Institute](https://www.uni-muenster.de/MathematischesInstitut/en/index.shtml) of the [University of Münster](https://www.uni-muenster.de/en/). I am a member of the Cluster of Excellence "Mathematics Münster: Dynamics – Geometry – Structure" and the CRC 1442 "Geometry: Deformations and Rigidity". My supervisor is Anna Siffert.
+
+2. J. M. Balado-Alves, _Polyharmonic hypersurfaces into complex space forms_, preprint [https://arxiv.org/abs/2310.14452](https://arxiv.org/abs/2310.14452) (2023), To appear in: Ann. Mat. Pura Appl.
+1. J. M. Balado-Alves, _Explicit harmonic self-maps of complex projective spaces_, J. Geom. Anal. **34** (2024) 21 (pp. 22) [https://doi.org/10.1007/s12220-023-01465-w](https://doi.org/10.1007/s12220-023-01465-w)
+
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
