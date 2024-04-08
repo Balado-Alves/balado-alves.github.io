@@ -23,3 +23,8 @@ Accepted
  {% for post in site.publications reversed %}
   {% include archive-single.html %}
  {% endfor %}
+
+ Theses
+ ======
+
+ - _Variedades de Riemann isocurvadas_, Master's thesis, advisor: Eduardo García-Río, University of Santiago de Compostela, 2021. 
