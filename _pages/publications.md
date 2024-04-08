@@ -13,6 +13,10 @@ Accepted
 2. J. M. Balado-Alves, _Polyharmonic hypersurfaces into complex space forms_, preprint [https://arxiv.org/abs/2310.14452](https://arxiv.org/abs/2310.14452) (2023), To appear in: Ann. Mat. Pura Appl.
 1. J. M. Balado-Alves, _Explicit harmonic self-maps of complex projective spaces_, J. Geom. Anal. **34** (2024) 21 (pp. 22) [https://doi.org/10.1007/s12220-023-01465-w](https://doi.org/10.1007/s12220-023-01465-w)
 
+Theses
+ ======
+
+ - _Variedades de Riemann isocurvadas_, Master's thesis, advisor: Eduardo García-Río, University of Santiago de Compostela, 2021. 
 
  {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
@@ -24,7 +28,4 @@ Accepted
   {% include archive-single.html %}
  {% endfor %}
 
- Theses
- ======
 
- - _Variedades de Riemann isocurvadas_, Master's thesis, advisor: Eduardo García-Río, University of Santiago de Compostela, 2021. 
