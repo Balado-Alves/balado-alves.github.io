@@ -16,7 +16,7 @@ My research interests lie in the field of geometric analysis and submanifold the
 
 Contact
 ======
-Email: jose dot balado at uni-muenster dot de
+Email: [jose dot balado at uni-muenster dot de](mailto:jose.balado@uni-muenster.de)
 
 Address: University of Münster, Mathematisches Institut, Einsteinstrasse 62, 48149 Münster, Germany
 
