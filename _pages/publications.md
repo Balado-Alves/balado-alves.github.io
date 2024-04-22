@@ -10,7 +10,7 @@ author_profile: true
 Accepted
 ======
 
-2. J. M. Balado-Alves, _Polyharmonic hypersurfaces into complex space forms_, preprint [https://arxiv.org/abs/2310.14452](https://arxiv.org/abs/2310.14452) (2023), To appear in: Ann. Mat. Pura Appl.
+2. J. M. Balado-Alves, _Polyharmonic hypersurfaces into complex space forms_, Ann. Mat. Pura Appl. (2024) [[https://doi.org/10.1007/s12220-023-01465-w](https://doi.org/10.1007/s10231-024-01452-0)
 1. J. M. Balado-Alves, _Explicit harmonic self-maps of complex projective spaces_, J. Geom. Anal. **34** (2024) 21 (pp. 22) [https://doi.org/10.1007/s12220-023-01465-w](https://doi.org/10.1007/s12220-023-01465-w)
 
 Theses
