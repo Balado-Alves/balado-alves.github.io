@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- J. M. Balado-Alves and A. Siffert, _Construction of r-harmonic submanifolds in spheres_, preprint [https://arxiv.org/abs/2404.02535](https://arxiv.org/abs/2404.02535) (2024).
+- J. M. Balado-Alves and A. Siffert, _Construction of r-harmonic submanifolds_, preprint [https://arxiv.org/abs/2404.02535](https://arxiv.org/abs/2404.02535) (2024).
 
 Accepted
 ======
