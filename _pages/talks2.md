@@ -5,7 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-- _Construction of r-harmonic submanifolds in spheres_, University of Frankfurt, June 2024.
+- _A cohomogeneity one approach to (poly)harmonic maps_, University of Münster, January 2025.
+- _Construction of r-harmonic submanifolds_, University of Frankfurt, June 2024.
 - _Critical submanifolds of higher order functionals_, University of Cagliari, February 2024.
 - _Explicit harmonic self-maps of complex projective spaces_, University of Iasi, September 2023.
 - _Recíproco del Teorema Egregium_, University of Santiago de Compostela, April 2021.
